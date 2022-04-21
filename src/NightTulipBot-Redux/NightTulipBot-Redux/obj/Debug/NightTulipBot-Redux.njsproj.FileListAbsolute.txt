@@ -1,0 +1,3 @@
+D:\Projects\JS\NightTulipBot-Redux\src\NightTulipBot-Redux\NightTulipBot-Redux\obj\Debug\NightTulipBot-Redux.njsproj.AssemblyReference.cache
+D:\Projects\JS\NightTulipBot-Redux\src\NightTulipBot-Redux\NightTulipBot-Redux\obj\Debug\NightTulipBot-Redux.njsproj.CoreCompileInputs.cache
+D:\Projects\JS\NightTulipBot-Redux\src\NightTulipBot-Redux\NightTulipBot-Redux\bin\Microsoft.NodejsTools.WebRole.dll
