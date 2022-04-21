@@ -20,7 +20,7 @@ client.on('messageCreate', (message) => {
         const [command, input] = args;
         var member = message.member;
         if (member.permissions.has(Permissions.FLAGS.ADMINISTRATOR)) {
-            if (command == '>reloadCommands') {
+            if (command == '>reloadcommands') {
                 try {
                     var result = db.query("SELECT * FROM Commands");
 
